@@ -45,4 +45,6 @@ echo '</pre>';
 
 echo in_array('João', $lista_coisas['pessoas']); // Verifica se 'Maçã' está no array de frutas
 
+
+
 ?>

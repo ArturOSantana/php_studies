@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="calucular.php" method="post">
+    <form action="calcular.php" method="post">
         <label for="num1">Número 1:</label>
         <input type="number" id="num1" name="num1" required>
         <br>
